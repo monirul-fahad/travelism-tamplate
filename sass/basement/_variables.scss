@@ -1,6 +1,8 @@
 // COLOR
-$color-primary-light: #FFFFFF;
+$color-primary-light: #ffffff;
 $color-primary-dark: #191919;
+
+$color-secondary: #777777;
 
 //FONT SIZE
 
@@ -15,10 +17,10 @@ $section-padding-b: 18rem;
 $section-padding-b-2: 10rem;
 $section-padding-tb: 18rem;
 
-@include respond(tab-port) {
-  $section-padding-t: 14rem;
-  $section-padding-b: 14rem;
-  $section-padding-tb: 14rem;
-}
+// @include respond(tab-port) {
+//   $section-padding-t: 14rem;
+//   $section-padding-b: 14rem;
+//   $section-padding-tb: 14rem;
+// }
 
 

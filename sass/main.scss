@@ -1,14 +1,16 @@
-@import "pages/home";
 
+
+
+@import "basement/variables";
 @import "basement/base";
 @import "basement/mixins";
 @import "basement/typography";
 @import "basement/utilities";
-@import "basement/variables";
 
 
 @import "layout/footer";
 @import "layout/grid";
 @import "layout/navigation";
 
-@import "components/header"
+@import "components/header";
+@import "pages/home";
