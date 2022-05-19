@@ -33,9 +33,9 @@ body {
   box-sizing: border-box;
   font-family: 'Hind Madurai', sans-serif;
 
-  @include respond(tab-port) { 
-    padding: 0;
-  };
+//   @include respond(tab-port) { 
+//     padding: 0;
+//   };
 
 }
 
