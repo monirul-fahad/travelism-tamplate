@@ -1,0 +1,9 @@
+.banner-content{
+    max-width: 78.5rem;
+
+    &__title{
+        font-size: 136px;
+line-height: 95%;
+color: $color-primary-light;
+    }
+}
